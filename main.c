@@ -17,6 +17,9 @@ void sub1() {
 }
 
 void sub2() {
+
+	printf("집가고싶다\n");
+
 }
 
 void sub3() {
